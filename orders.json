@@ -1,0 +1,36 @@
+[
+  {
+    "id": "CB-1001",
+    "createdAt": "2026-10-02T19:55:31.187Z",
+    "updatedAt": "2026-10-02T19:55:31.187Z",
+    "estimatedDeliveryAt": "2026-10-02T20:25:31.187Z",
+    "status": "New",
+    "payment": "Cash on Delivery",
+    "customer": {
+      "name": "jay",
+      "phone": "98968968689",
+      "location": "200"
+    },
+    "items": [
+      {
+        "productId": "p1",
+        "name": "Parle-G",
+        "price": 10,
+        "qty": 1,
+        "emoji": "🍪"
+      }
+    ],
+    "subtotal": 10,
+    "delivery": 20,
+    "coupon": "",
+    "discount": 0,
+    "total": 30,
+    "note": "",
+    "timeline": [
+      {
+        "status": "New",
+        "at": "2026-10-02T19:55:31.187Z"
+      }
+    ]
+  }
+]
